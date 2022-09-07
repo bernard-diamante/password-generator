@@ -1,5 +1,5 @@
 # Password Generator App
-A mini-project I created to practice basic Kotlin. 
+A mini-project Android app I created to practice basic Kotlin. 
 ## Features
 - Randomized password generation influenced by user-set parameters:
   1. Uppercase letters
